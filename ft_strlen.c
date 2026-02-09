@@ -6,15 +6,15 @@
 /*   By: mel-wahm <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/14 15:34:53 by mel-wahm          #+#    #+#             */
-/*   Updated: 2026/02/09 14:51:43 by mel-wahm         ###   ########.fr       */
+/*   Updated: 2026/02/09 14:53:33 by mel-wahm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
 
-int	ft_strlen(const char *str)
+size_t	ft_strlen(const char *str)
 {
-	int	i;
+	size_t	i;
 
 	i = 0;
 	while (str[i])
