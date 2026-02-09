@@ -249,4 +249,5 @@ This project is part of the 42 School curriculum.
 ---
 
 *Created as part of the 42 curriculum - November 2025*
+
 *This read me was fully made by AI (is sucks i know)*
